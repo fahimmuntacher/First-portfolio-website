@@ -1,0 +1,71 @@
+
+*{
+    font-family:'Open Sans', 'Segoe UI';
+}
+.r-color{
+    color: orange;
+}
+
+/* header and navigation style */
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    
+}
+.header-tag{
+   font-weight: 800;
+   font-size: 45px;
+   margin-left: 30px;
+   margin-top: 18px;
+}
+ul li{
+    list-style: none;
+    margin-top: 15px;
+    margin-left: 22px;
+
+}
+ul{
+    display: flex;
+    
+}
+.header-btn{
+    height: 40px;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    font-size: 550;
+    border-radius: 3px;
+    border: 0;
+    margin-bottom: 10px;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+}
+/* banner css  */
+.banner-subtitle{
+    font-weight: 600;
+    margin-left: 20px;
+
+}
+.banner-title{
+    font-weight: 800;
+    margin: 20px;
+
+}
+.banner-p{
+    font-size: 300;
+    margin-left: 20px;
+
+}
+.dl-cv{
+    color: white;
+    height: 40px;
+    border-radius: 7px;
+    background-color: orange;
+    border: 0;
+    margin-left: 100px;
+    margin-top: 20px;
+}
